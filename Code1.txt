@@ -10,3 +10,6 @@ Feature2_Function_OnGitHub()
 Feature3_Function_OnGitHUb()
 {
 }
+AddRemote()
+{
+}
