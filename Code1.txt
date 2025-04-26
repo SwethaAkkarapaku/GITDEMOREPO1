@@ -7,4 +7,12 @@ Feature2_function()
 Feature2_Function_OnGitHub()
 {
 }
+
+Feature3_Function_OnGitHUb()
+{
+}
+AddRemote()
+{
+}
 NewFeatureAddedManually
+
